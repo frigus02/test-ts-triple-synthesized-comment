@@ -1,0 +1,11 @@
+{
+  "name": "test-ts-triple-synthesized-comment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Jan Kuehle <jankuehle@google.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "typescript": "5.1"
+  }
+}
